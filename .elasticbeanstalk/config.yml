@@ -1,0 +1,15 @@
+branch-defaults:
+  default:
+    environment: null
+global:
+  application_name: web
+  branch: null
+  default_platform: Python 3.6
+  default_region: ap-southeast-2
+  instance_profile: null
+  platform_name: null
+  platform_version: null
+  profile: null
+  repository: null
+  sc: null
+  workspace_type: Application
